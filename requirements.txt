@@ -1,0 +1,4 @@
+click
+python-terrier==1.0
+tira>=0.0.203
+tirex-tracker>=0.2.23
