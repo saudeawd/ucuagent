@@ -32,6 +32,10 @@ on:
           - task-2-procurement-spot-check-20260928-training
           - task-2-expense-reimbursement-spot-check-20260928-training
           - business-trip-spot-check-20260907-training
+      team:
+        description: 'Your TIRA team name (optional, only for the full installation check)'
+        required: false
+        default: ''
 jobs:
   docker-build:
     runs-on: ubuntu-latest
@@ -42,11 +46,9 @@ jobs:
       OPENAI_MODEL: ${{ secrets.OPENAI_MODEL || 'unset-in-ci' }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v3
+        uses: actions/checkout@v5
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
       - name: Install required python packages
@@ -63,9 +65,15 @@ jobs:
           esac
           echo "command=$cmd" >> "$GITHUB_OUTPUT"
       - name: Build, test, and upload image
+        env:
+          TEAM: ${{ inputs.team }}
         run: |
           tira-cli login --token ${{ secrets.TIRA_CLIENT_TOKEN }}
-          tira-cli verify-installation
+          # Informational only: without --team the upload check cannot run and
+          # the command exits 1 even though everything else is fine;
+          # code-submission below derives the team from the token itself.
+          tira-cli verify-installation --task uniagent-2026 ${TEAM:+--team "$TEAM"} \
+            || echo "::warning::tira-cli verify-installation reported problems (see above); continuing."
           tira-cli code-submission \
             --path task2 \
             --task uniagent-2026 \
