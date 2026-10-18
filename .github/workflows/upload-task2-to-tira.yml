@@ -1,0 +1,74 @@
+# Uploads the Task 2 agent (task2/) to TIRA as a code submission.
+# Based on TIRA's own template (.github/workflows/upload-software-to-tira.yml).
+#
+# Setup once: repository Settings -> Secrets and variables -> Actions ->
+#   TIRA_CLIENT_TOKEN = the token shown on the TIRA submit page.
+# Run: Actions -> "Upload Task 2 to TIRA" -> Run workflow, pick the version.
+#
+# tira-cli test-runs the image on a spot-check dataset before uploading. No
+# LLM is reachable from the GitHub runner, so unless the OPENAI_* secrets are
+# set, dummy values are used: every model call fails fast, the agent logs the
+# errors and writes fallback predictions, and the upload still happens. The
+# real endpoint/model are entered when starting the software in TIRA.
+name: Upload Task 2 to TIRA
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Agent version to upload'
+        required: true
+        type: choice
+        default: v2
+        options:
+          - v2
+          - v1-strict
+          - v1-material
+      dataset:
+        description: 'Spot-check dataset for the test run before upload'
+        required: true
+        type: choice
+        default: task-2-procurement-spot-check-20260928-training
+        options:
+          - task-2-procurement-spot-check-20260928-training
+          - task-2-expense-reimbursement-spot-check-20260928-training
+          - business-trip-spot-check-20260907-training
+jobs:
+  docker-build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL || 'http://127.0.0.1:9/v1' }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY || 'EMPTY' }}
+      OPENAI_MODEL: ${{ secrets.OPENAI_MODEL || 'unset-in-ci' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install required python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip3 install tira
+      - name: Select command
+        id: select
+        run: |
+          case "${{ inputs.version }}" in
+            v2)          cmd='/app/predict_v2.py --input $inputDataset --output $outputDir' ;;
+            v1-strict)   cmd='/app/predict.py --input $inputDataset --output $outputDir --prompt-variant strict' ;;
+            v1-material) cmd='/app/predict.py --input $inputDataset --output $outputDir --prompt-variant material' ;;
+          esac
+          echo "command=$cmd" >> "$GITHUB_OUTPUT"
+      - name: Build, test, and upload image
+        run: |
+          tira-cli login --token ${{ secrets.TIRA_CLIENT_TOKEN }}
+          tira-cli verify-installation
+          tira-cli code-submission \
+            --path task2 \
+            --task uniagent-2026 \
+            --dataset ${{ inputs.dataset }} \
+            --command '${{ steps.select.outputs.command }}' \
+            --forward-environment-variable OPENAI_API_KEY OPENAI_BASE_URL OPENAI_MODEL
