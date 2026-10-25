@@ -1,0 +1,62 @@
+====================================================================================================
+QUERY 16  (relevant doc at rank 43)
+  query:       Consumables in funded research projects
+  description: What should be considered when buying consumables for a funded research project?
+  narrative:   Relevant documents explain rules for material expenses and consumables in third-party funded projects.
+  RELEVANT:    4. project implementation - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/en/interne-bereiche-der-abteilungen/finanzen/drittmittelbewirtschaftung/prozessuebersicht-drittmittelbewirtschaftung/4-projektdurchfuehrung.html
+               4. project implementation  The content on this page was translated automatically.  When carrying out externally funded research projects, care must be taken to ensure that only expenditure that is necessary to achieve the project objective - taking into account the budgetary principle of efficiency 
+  top-1:       Research - FB11AGRAR - Uni Kassel  |  https://www.uni-kassel.de/fb11agrar/en/sections-facilities/agricultural-and-food-marketing/research.html
+  top-2:       1. application - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/en/interne-bereiche-der-abteilungen/finanzen/drittmittelbewirtschaftung/prozessuebersicht-drittmittelbewirtschaftung/1-antragstellung.html
+  top-3:       Agenda Future-Oriented Consumer Research - FB05 - Uni Kassel  |  https://www.uni-kassel.de/fb05/en/fachgruppen-und-institute/soziologie/fachgebiete/sociological-theory/research/agenda-future-oriented-consumer-research.html
+====================================================================================================
+QUERY 41  (relevant doc at rank 2)
+  query:       Visa and entry requirements
+  description: Who needs a visa to enter and stay in Germany?
+  narrative:   Relevant documents explain visa, entry and residence requirements and required documents.
+  RELEVANT:    Visa, entry and residence issues - UNI  |  https://www.uni-kassel.de/uni/en/international/coming-to-kassel/welcome-centre/visa-entry-and-residence-issues.html
+               Visa, entry and residence issues  Information for international students and prospective students  The University of Kassel does not issue visas. We merely provide you with information about the applicable regulations. Please always check the current regulations on the official website of the Federa
+  top-1:       REMENA International Application | unikims.de  |  https://www.unikims.de/studiengaenge/remena/application/international
+  top-2:       Visa, entry and residence issues - UNI  |  https://www.uni-kassel.de/uni/en/international/coming-to-kassel/welcome-centre/visa-entry-and-residence-issues.html
+  top-3:       Application with foreign certificates - UNI  |  https://www.uni-kassel.de/uni/en/study/application-and-admission/application-with-foreign-certificates.html
+====================================================================================================
+QUERY 42  (relevant doc at rank 3)
+  query:       Travel expense advances
+  description: How can an employee request and settle a travel expense advance?
+  narrative:   Relevant documents describe the minimum amount, application and settlement deadline for travel advances.
+  RELEVANT:    Glossary third-party funding management - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/en/interne-bereiche-der-abteilungen/finanzen/drittmittelbewirtschaftung/glossar-drittmittelbewirtschaftung.html
+               Glossary third-party funding management  The content on this page was translated automatically.  With this overview, the Finance Department of the University of Kassel (Department IV) provides researchers at the University of Kassel with general information for applying for and carrying out third-pa
+  top-1:       Contact persons for civil servants - HOCHSCHULVERWALTUNG  |  https://www.uni-kassel.de/hochschulverwaltung/en/university-administration/departments/department-of-human-resources/contact-persons-for-civil-servants.html
+  top-2:       SAP ESS (Business Travel Management) - ITS - Uni Kassel  |  https://www.uni-kassel.de/its/en/it-dienste-software/sap-ess-dienstreisemanagement.html
+  top-3:       Glossary third-party funding management - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/en/interne-bereiche-der-abteilungen/finanzen/drittmittelbewirtschaftung/glossar-drittmittelbewirtschaftung.html
+====================================================================================================
+QUERY 44  (relevant doc at rank 4)
+  query:       Sustainable business trips
+  description: Which sustainability principles apply to university business trips?
+  narrative:   Relevant documents describe the university's principles for climate-friendly business travel.
+  RELEVANT:    Mobility - UNI  |  https://www.uni-kassel.de/uni/en/nachhaltigkeit/nachhaltiger-betrieb-und-campus-1/mobilitaet.html
+               Mobility  The content on this page was translated automatically.  Locations of the new bicycle parking facilities  (opens enlarged image)  News from the mobility & transport sector  New lockable bicycle boxes at HoPla    • For the time being, three bicycle boxes have been completed at Hopla; these a
+  top-1:       SAP ESS (Business Travel Management) - ITS - Uni Kassel  |  https://www.uni-kassel.de/its/en/it-dienste-software/sap-ess-dienstreisemanagement.html
+  top-2:       Further training abroad for staff members - UNI  |  https://www.uni-kassel.de/uni/en/international/going-abroad/further-training-abroad-for-staff-members.html
+  top-3:       Further training abroad for staff members - UNI  |  https://www.uni-kassel.de/uni/en/international/going-abroad/further-training-abroad-for-staff-members
+====================================================================================================
+QUERY 46  (relevant doc at rank 3)
+  query:       Hospitality expenses from third-party funds
+  description: When may hospitality expenses be paid from third-party funds?
+  narrative:   Relevant documents explain funding restrictions and required approval for hospitality expenses.
+  RELEVANT:    4. project implementation - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/en/interne-bereiche-der-abteilungen/finanzen/drittmittelbewirtschaftung/prozessuebersicht-drittmittelbewirtschaftung/4-projektdurchfuehrung.html
+               4. project implementation  The content on this page was translated automatically.  When carrying out externally funded research projects, care must be taken to ensure that only expenditure that is necessary to achieve the project objective - taking into account the budgetary principle of efficiency 
+  top-1:       Financial accounting and taxes - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/en/interne-bereiche-der-abteilungen/finanzen/finanzbuchhaltung-und-steuern.html
+  top-2:       Glossary third-party funding management - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/en/interne-bereiche-der-abteilungen/finanzen/drittmittelbewirtschaftung/glossar-drittmittelbewirtschaftung.html
+  top-3:       4. project implementation - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/en/interne-bereiche-der-abteilungen/finanzen/drittmittelbewirtschaftung/prozessuebersicht-drittmittelbewirtschaftung/4-projektdurchfuehrung.html
+====================================================================================================
+QUERY 47  (relevant doc at rank 4)
+  query:       Value-added tax on invoices
+  description: What should be considered about value-added tax on university invoices?
+  narrative:   Relevant documents contain invoicing and value-added tax guidance.
+  RELEVANT:    Glossary third-party funding management - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/en/interne-bereiche-der-abteilungen/finanzen/drittmittelbewirtschaftung/glossar-drittmittelbewirtschaftung.html
+               Glossary third-party funding management  The content on this page was translated automatically.  With this overview, the Finance Department of the University of Kassel (Department IV) provides researchers at the University of Kassel with general information for applying for and carrying out third-pa
+  top-1:       Open Access Journal Articles - UB - Uni Kassel  |  https://www.uni-kassel.de/ub/en/publishing/open-access/publication-fund/journal-articles.html
+  top-2:       Financial accounting and taxes - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/en/interne-bereiche-der-abteilungen/finanzen/finanzbuchhaltung-und-steuern.html
+  top-3:       Attachments - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/en/interne-bereiche-der-abteilungen/finanzen/materialwirtschaft/anlagen.html
+====================================================================================================
+6 of 25 queries do not have the relevant doc at rank 1

@@ -1,0 +1,112 @@
+====================================================================================================
+QUERY 1  (relevant doc at rank 14)
+  query:       Definition Dienstreise HRKG
+  description: Wann liegt eine Dienstreise im Sinne des Hessischen Reisekostengesetzes vor?
+  narrative:   Relevant ist § 2 HRKG zur Definition und Abgrenzung von Dienstreisen.
+  RELEVANT:     § 2 HRKG | Landesnorm Hessen | Dienstreisen | § 2 - Dienstreisen | gültig ab: 01.01.2010  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE0000518BNN00000000004
+               Hessisches Reisekostengesetz (HRKG) Vom 9. Oktober 2009 1)  § 2 Dienstreisen  (1) Dienstreisen im Sinne dieses Gesetzes sind die von der zuständigen Behörde schriftlich oder elektronisch angeordneten oder genehmigten Reisen  1.  zur Erledigung von Dienstgeschäften außerhalb der Dienststätte,  2.  au
+  top-1:       5 K 2475/11.GI | VG Gießen 5. Kammer | 08.05.2012 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190033800
+  top-2:       1 K 1441/11.KS | VG Kassel 1. Kammer | 11.06.2012 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190034463
+  top-3:        § 4 HRKG | Landesnorm Hessen | Reisekostenerstattung | § 4 - Reisekostenerstattung | gült  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE0000518BNN00000000007
+====================================================================================================
+QUERY 2  (relevant doc at rank 36)
+  query:       Reisekostenerstattung nach HRKG
+  description: Welche Reisekosten werden nach dem Hessischen Reisekostengesetz erstattet?
+  narrative:   Relevant ist § 4 HRKG zur Erstattung von Fahrt-, Flug-, Übernachtungs- und sonstigen Reisekosten.
+  RELEVANT:     § 4 HRKG | Landesnorm Hessen | Reisekostenerstattung | § 4 - Reisekostenerstattung | gült  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE0000518BNN00000000008
+               Hessisches Reisekostengesetz (HRKG) Vom 9. Oktober 2009 1)  § 4 Reisekostenerstattung  (1) Dienstreisende haben Anspruch auf Erstattung der dienstlich veranlassten notwendigen Reisekosten. Art und Umfang bestimmt ausschließlich dieses Gesetz.  (2) Werden Dienstreisen aus Gründen, die die Dienstreise
+  top-1:       1 K 2889/18.KS | VG Kassel 1. Berichterstatter | 14.02.2020 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE200000353
+  top-2:       3 K 1619/14.WI | VG Wiesbaden 3. Kammer | 24.06.2015 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190035013
+  top-3:        § 23 HRKG | Landesnorm Hessen | Inkrafttreten | § 23 - Inkrafttreten | gültig ab: 01.01.2  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE0000518BNN00000000035
+====================================================================================================
+QUERY 3  (relevant doc at rank 14)
+  query:       Flugkosten Dienstreise Hessen
+  description: Wann werden Flugkosten bei einer Dienstreise nach hessischem Recht erstattet?
+  narrative:   Relevant ist § 5 HRKG zur Fahrt- und Flugkostenerstattung.
+  RELEVANT:     § 5 HRKG | Landesnorm Hessen | Fahrt- und Flugkostenerstattung | § 5 - Fahrt- und Flugkos  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE0000518BNN00000000011
+               Hessisches Reisekostengesetz (HRKG) Vom 9. Oktober 2009 1)  § 5 Fahrt- und Flugkostenerstattung  (1) Die Fahrtkosten für regelmäßig verkehrende Land- und Wasserfahrzeuge werden bis zur Höhe der niedrigsten Beförderungsklasse erstattet, die Fahrtkosten der nächst höheren dann, wenn bei Dienstreisende
+  top-1:        § 5 HRKG | Landesnorm Hessen | Fahrt- und Flugkostenerstattung | § 5 - Fahrt- und Flugkos  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE0000518BNN00000000009
+  top-2:        § 5 HRKG | Landesnorm Hessen | Fahrt- und Flugkostenerstattung | § 5 - Fahrt- und Flugkos  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE0000518BNN00000000010
+  top-3:       3 K 1619/14.WI | VG Wiesbaden 3. Kammer | 24.06.2015 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190035013
+====================================================================================================
+QUERY 4  (relevant doc at rank 4)
+  query:       Übernachtungsgeld HRKG
+  description: Wie hoch ist das Übernachtungsgeld bei einer Dienstreise nach dem Hessischen Reisekostengesetz?
+  narrative:   Relevant ist § 8 HRKG zum Übernachtungsgeld.
+  RELEVANT:     § 8 HRKG | Landesnorm Hessen | Übernachtungsgeld | § 8 - Übernachtungsgeld | gültig ab: 0  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE0000518BNN00000000016
+               Hessisches Reisekostengesetz (HRKG) Vom 9. Oktober 2009 1)  § 8 Übernachtungsgeld  (1) Für notwendige Übernachtungen erhalten Dienstreisende ein pauschales Übernachtungsgeld von 20 Euro pro Nacht. Höhere Übernachtungskosten werden erstattet, wenn sie unvermeidbar sind.  (2) Übernachtungsgeld wird ni
+  top-1:       1 UE 99/86 | Hessischer Verwaltungsgerichtshof 1. Senat | 14.03.1990 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190025404
+  top-2:       1 UE 1620/85 | Hessischer Verwaltungsgerichtshof 1. Senat | 14.03.1990 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190025403
+  top-3:        § 10 HRKG | Landesnorm Hessen | Übernachtungsgeld | § 10 - Übernachtungsgeld | Textnachwe  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE000058FENN00000000014
+====================================================================================================
+QUERY 6  (relevant doc at rank 4)
+  query:       Auslandsdienstreise Hessen Regelungen
+  description: Welche besonderen Regelungen gelten für Auslandsdienstreisen nach hessischem Recht?
+  narrative:   Relevant ist § 17 HRKG zu Auslandsdienstreisen.
+  RELEVANT:     § 17 HRKG | Landesnorm Hessen | Auslandsdienstreisen | § 17 - Auslandsdienstreisen | gült  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE0000518BNN00000000026
+               Hessisches Reisekostengesetz (HRKG) Vom 9. Oktober 2009 1)  § 17 Auslandsdienstreisen  (1) Auslandsdienstreisen sind Dienstreisen zwischen Inland und Ausland sowie im Ausland.  (2) Soweit nichts anderes bestimmt ist, richtet sich die Gewährung von Reisekosten für Auslandsdienstreisen nach der Auslan
+  top-1:       3 K 1619/14.WI | VG Wiesbaden 3. Kammer | 24.06.2015 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190035013
+  top-2:        § 20 HRKG | Landesnorm Hessen | Auslandsdienstreisen | § 20 - Auslandsdienstreisen | Text  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE000058FENN00000000023
+  top-3:        § 10 FinMinBPersZustV HE 2015 | Landesnorm Hessen | § 10 | gültig ab: 01.01.2015  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE0000507ENN00000000032
+====================================================================================================
+QUERY 7  (relevant doc at rank 90)
+  query:       Wegstreckenentschädigung eigenes Auto Dienstreise
+  description: Wie wird die Nutzung des eigenen Pkw bei einer Dienstreise entschädigt?
+  narrative:   Relevant ist § 6 HRKG zur Wegstrecken- und Mitnahmeentschädigung.
+  RELEVANT:     § 6 HRKG | Landesnorm Hessen | Wegstrecken- und Mitnahmeentschädigung | § 6 - Wegstrecken  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE0000518BNN00000000013
+               Hessisches Reisekostengesetz (HRKG) Vom 9. Oktober 2009 1)  § 6 Wegstrecken- und Mitnahmeentschädigung  (1) Beim Vorliegen triftiger Gründe kann die Benutzung eines privaten Kraftfahrzeugs genehmigt werden. Hierfür wird eine Wegstreckenentschädigung von 0,35 Euro je Kilometer, für ein zweirädriges K
+  top-1:       L 3 U 198/17 | Hessisches Landessozialgericht 3. Senat | 13.08.2019 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190035887
+  top-2:       Geschäftsordnung für die Hessischen Ämter für Versorgung und Soziales (HÄVS) § 19 | Verwal  |  https://www.rv.hessenrecht.hessen.de/bshe/document/VVHE-VVHE000020613
+  top-3:       16 TaBV 198/16 | Hessisches Landesarbeitsgericht 16. Kammer | 30.01.2016 | Beschluss  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190004725
+====================================================================================================
+QUERY 8  (relevant doc at rank 784)
+  query:       Trennungsgeld Hessen Verordnung
+  description: Welche Voraussetzungen gelten für den Anspruch auf Trennungsgeld in Hessen?
+  narrative:   Relevant ist die Hessische Trennungsgeldverordnung (HTGV).
+  RELEVANT:      HTGV | Landesnorm Hessen | Hessische Trennungsgeldverordnung (HTGV) vom 20. Oktober 2011  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE00005393
+               Hessische Trennungsgeldverordnung (HTGV) Vom 20. Oktober 2011  Stand: letzte berücksichtigte Änderung: zuletzt geändert durch Artikel 13 des Gesetzes vom 15. November 2021 (GVBl. S. 718, 735)
+  top-1:         TGV HE | Landesnorm Hessen | Verordnung über die Gewährung von Trennungsgeld an Beamte u  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE000058F6
+  top-2:        § 4 TGV HE | Landesnorm Hessen | § 4 | gültig ab: 01.01.2004 | gültig bis: 31.12.2003  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE000058F6NN00000000005
+  top-3:        § 7 GVollzDRAbfV HE | Landesnorm Hessen | Dienstreisen in Vollstreckungsangelegenheiten w  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE000058FANN00000000008
+====================================================================================================
+QUERY 9  (relevant doc at rank 735)
+  query:       Verwaltungsvorschriften Reisekostengesetz Hessen
+  description: Welche Verwaltungsvorschriften konkretisieren das Hessische Reisekostengesetz?
+  narrative:   Relevant ist die VV-HRKG mit Auslegungshinweisen zu den einzelnen Paragraphen.
+  RELEVANT:    Ministerium des Innern, für Sicherheit und Heimatschutz | Verwaltungsvorschrift (Hessen) |  |  https://www.rv.hessenrecht.hessen.de/bshe/document/VVHE-VVHE000013868
+               Verwaltungsvorschriften zum Hessischen Reisekostengesetz (VV-HRKG)  Nichtamtliches Inhaltsverzeichnis    • Zu § 1   • Zu § 2   • Zu § 3   • Zu § 4   • Zu § 5   • Zu § 6   • Zu § 7   • Zu § 8   • Zu § 9   • Zu § 10   • Zu § 11   • Zu § 12   • Zu § 13   • Zu § 14   • Zu § 15   • Zu § 16   • Zu § 17   
+  top-1:        § 7 MinPräsBeamtPZustV HE 2012 | Landesnorm Hessen | Zuständigkeiten nach dem Hessischen   |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE000052E1NN00000000008
+  top-2:        § 7 MinPräsBeamtPZustAnO HE | Landesnorm Hessen | Zuständigkeiten nach dem Hessischen Rei  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE0000594FNN00000000012
+  top-3:        § 1 FinMinRKGuaZustAnO HE | Landesnorm Hessen | § 1 | Textnachweis ab: 01.01.2004 | gülti  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE000058F0NN00000000002
+====================================================================================================
+QUERY 11  (relevant doc at rank 2)
+  query:       Unfallversicherungsschutz Sturz Hotelzimmer Dienstreise
+  description: Besteht Unfallversicherungsschutz bei einem Sturz im Hotelzimmer nach Abschluss einer Dienstreise?
+  narrative:   Relevant ist das Urteil des Hessischen Landessozialgerichts zum Versicherungsschutz nach Dienstreiseende.
+  RELEVANT:    L 3 U 198/17 | Hessisches Landessozialgericht 3. Senat | 13.08.2019 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190035887
+               Leitsatz  1. Eine Arbeitnehmerin, die nach Abschluss ihrer Dienstreise in ihrem Hotelzimmer auf dem Weg zum Telefon stürzt, steht nicht gemäß § 8 Abs. 1 Satz 1, Abs. 2 Nr. 1 SGB 7 unter dem Schutz der gesetzlichen Unfallversicherung, wenn das geplante Telefonat dazu dient, den Antritt einer privaten
+  top-1:       S 8 U 47/16 | SG Frankfurt 8. Kammer | 23.11.2017 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190020279
+  top-2:       L 3 U 198/17 | Hessisches Landessozialgericht 3. Senat | 13.08.2019 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190035887
+  top-3:       L 3 U 576/99 | Hessisches Landessozialgericht 3. Senat | 24.07.2002 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190008196
+====================================================================================================
+QUERY 12  (relevant doc at rank 4)
+  query:       Tagegeld auswärtige Tätigkeit Dienststätte HRKG
+  description: Hat ein Beschäftigter Anspruch auf Tagegeld, wenn er dauerhaft außerhalb der Dienststätte arbeitet?
+  narrative:   Relevant ist das Urteil zum Begriff der Dienststätte und zum Tagegeldanspruch nach HRKG.
+  RELEVANT:    2 Sa 1024/13 | Hessisches Landesarbeitsgericht 2. Kammer | 14.05.2014 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190004177
+               Leitsatz  1. Dienststätte iSd. § 2 Abs. 1 Satz 1 Nr. 1 HRKG ist allein der Sitz der Dienststelle.  2. Deshalb hat ein Tarifangestellter des beklagten Landes, der außerhalb der Dienststätte Geschwindigkeitsmessstellen einrichtet und betreibt, gemäß § 4 Abs. 1 Satz 1 HRKG Anspruch auf Erstattung der d
+  top-1:       1 K 1441/11.KS | VG Kassel 1. Kammer | 11.06.2012 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190034463
+  top-2:       1 A 1469/12 | Hessischer Verwaltungsgerichtshof 1. Senat | 26.06.2013 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190029295
+  top-3:       5 K 2475/11.GI | VG Gießen 5. Kammer | 08.05.2012 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190033800
+====================================================================================================
+QUERY 15  (relevant doc at rank 96)
+  query:       Fahrtkostenerstattung Personalratsmitglieder HRKG
+  description: Nach welchen Regeln werden Fahrtkosten freigestellter Personalratsmitglieder erstattet?
+  narrative:   Relevant ist der Beschluss zur Anwendung des Hessischen Reisekostengesetzes auf Personalratsmitglieder.
+  RELEVANT:    22 TL 1699/05 | Hessischer Verwaltungsgerichtshof 22. Senat | 29.06.2006 | Beschluss  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190028396
+               Fahrtkosten freigestellter Personalratsmitglieder  Leitsatz  1. Die allgemeine Kostentragungsregel für personalvertretungsrechtliche Tätigkeiten in § 42 Abs. 1 HPVG wird durch die spezielle Regelung für Reisekosten in § 42 Abs. 3 HPVG dahingehend ergänzt, dass die typisierenden und pauschalierenden 
+  top-1:       1 K 2889/18.KS | VG Kassel 1. Berichterstatter | 14.02.2020 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE200000353
+  top-2:       3 K 1619/14.WI | VG Wiesbaden 3. Kammer | 24.06.2015 | Urteil  |  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE190035013
+  top-3:        § 23 HRKG | Landesnorm Hessen | Inkrafttreten | § 23 - Inkrafttreten | gültig ab: 01.01.2  |  https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE0000518BNN00000000035
+====================================================================================================
+11 of 15 queries do not have the relevant doc at rank 1

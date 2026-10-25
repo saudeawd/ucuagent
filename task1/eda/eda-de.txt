@@ -1,0 +1,92 @@
+====================================================================================================
+QUERY 1  (relevant doc at rank 6)
+  query:       Dienstreiseantrag
+  description: Wie beantrage ich eine Dienstreise?
+  narrative:   Relevant sind Dokumente zum Dienstreiseantrag und zur Genehmigung vor Reiseantritt.
+  RELEVANT:    Dienstreisemanagement - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/interne-bereiche-der-abteilungen/personal-und-organisation/dienstreisemanagement
+               Dienstreisemanagement  Aktuelle Information Mit dem Präsidiumsbeschluss 656 vom 21.07.2025 gelten Dienstreisen und Reisen zum Zwecke der Fortbildung im Inland mit einer Dauer von bis sieben Tagen  für Professorinnen und Professoren mit sofortiger Wirkung grundsätzlich qua Amt als genehmigt gem.  § 2
+  top-1:       SAP ESS (Dienstreisemanagement) - ITS - Uni Kassel  |  https://www.uni-kassel.de/its/it-dienste-software/sap-ess-dienstreisemanagement.html
+  top-2:       Erasmus+ Personalmobilität zu Lehrzwecken (STA) - UNI  |  https://www.uni-kassel.de/uni/international/ins-ausland-gehen/im-ausland-lehren-und-forschen/erasmus-personalmobilitaet-zu-lehrzwecken-sta
+  top-3:       Erasmus+ Personalmobilität zu Lehrzwecken (STA) - UNI  |  https://www.uni-kassel.de/uni/international/ins-ausland-gehen/im-ausland-lehren-und-forschen/erasmus-personalmobilitaet-zu-lehrzwecken-sta.html
+====================================================================================================
+QUERY 15  (relevant doc at rank 7)
+  query:       Privat verauslagte Kosten abrechnen
+  description: Wie werden privat verauslagte dienstliche Kosten abgerechnet?
+  narrative:   Relevant sind Informationen zur digitalen Abrechnung privat verauslagter Kosten.
+  RELEVANT:    Finanzbuchhaltung und Steuern - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/interne-bereiche-der-abteilungen/finanzen/finanzbuchhaltung-und-steuern
+               Finanzbuchhaltung und Steuern  Wir sind zuständig für die Themen Ein- und Ausgangsrechungen, Zahlungsverkehr, Anlagenbuchhaltung und Steuern.  Wir erstellen den Jahresabschluss, die Steuererklärungen der Universität sowie deren Betriebe gewerblicher Art.  EVER – Digitaler Rechnungseingang  EVER – Di
+  top-1:       Digitalisierung der Abrechnung von bar verauslagten Kosten - HOCHSCHULVERWALTUNG  |  https://www.uni-kassel.de/hochschulverwaltung/ueber-uns/laufende-projekte/blog-listing/projektsammlung/digitalisierung-der-abrechnung-von-bar-verauslagten-kosten.html
+  top-2:       Dienstreisemanagement - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/interne-bereiche-der-abteilungen/personal-und-organisation/dienstreisemanagement
+  top-3:       Dienstreisemanagement - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/interne-bereiche-der-abteilungen/personal-und-organisation/dienstreisemanagement.html
+====================================================================================================
+QUERY 21  (relevant doc at rank 2)
+  query:       Endgeräte beschaffen
+  description: Wie werden Computer und andere Endgeräte an der Universität beschafft?
+  narrative:   Relevant sind Informationen zu Beschaffungsformularen, Bestellsystemen und Rahmenverträgen für Endgeräte.
+  RELEVANT:    Endgeräte-Beschaffung - ITS - Uni Kassel  |  https://www.uni-kassel.de/its/it-dienste-software/unikasselclient-it-arbeitsplatzumgebung/endgeraete-beschaffung.html
+               Endgeräte-Beschaffung  Zurück zur Übersicht  Informationen zum IT-Rahmenvertrag  Wir freuen uns, Ihnen mitteilen zu können, dass wir seit dem 1. November 2023 einen Rahmenvertrag mit Bechtle abgeschlossen haben. Dieser Vertrag umfasst die Bereitstellung von PCs, Notebooks, Docking-Stations und Bilds
+  top-1:       Nutzerservice - FB01 - Uni Kassel  |  https://www.uni-kassel.de/fb01/organisation/organisation/informationsmanagement/nutzerservice.html
+  top-2:       Endgeräte-Beschaffung - ITS - Uni Kassel  |  https://www.uni-kassel.de/its/it-dienste-software/unikasselclient-it-arbeitsplatzumgebung/endgeraete-beschaffung.html
+  top-3:       Endgeräte-Beschaffung - ITS - Uni Kassel  |  https://www.uni-kassel.de/its/?id=4545
+====================================================================================================
+QUERY 22  (relevant doc at rank 3)
+  query:       Beschaffungsordnung
+  description: Welche Regeln gelten für Beschaffungen an der Universität?
+  narrative:   Relevant sind die Beschaffungsordnung und allgemeine Vorgaben für Bestellungen.
+  RELEVANT:    Beschaffung - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/interne-bereiche-der-abteilungen/finanzen/materialwirtschaft/beschaffung
+               Beschaffung  Ablauf einer Bestellung (Beschaffung)  Informationen Grundlage für jede Bestellung/Beschaffung ist die Beschaffungsordnung der Universität Kassel. Die bestellte Ware kann je nach Preis oder Produktart folgender Kategorie angehören:    • Verbrauchsmaterial/-mittel   • GWG     Geringwerti
+  top-1:       Beschaffungsordnung / Vergaberechtliche Vorschriften - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/interne-bereiche-der-abteilungen/finanzen/materialwirtschaft/beschaffung/beschaffungsordnung-vergaberechtliche-vorschriften.html
+  top-2:       Hilfen zum Projektmanagement - UNI  |  https://www.uni-kassel.de/uni/forschung/forschungs-und-graduiertenfoerderung/forschungsfoerderung/rahmenbedingungen-guter-forschung/hilfen-zum-projektmanagement.html
+  top-3:       Beschaffung - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/interne-bereiche-der-abteilungen/finanzen/materialwirtschaft/beschaffung
+====================================================================================================
+QUERY 23  (relevant doc at rank 37)
+  query:       Vergaberegeln bei Beschaffungen
+  description: Welche Vergaberegeln müssen bei einer Beschaffung beachtet werden?
+  narrative:   Relevant sind interne und gesetzliche Vorgaben zu Vergabe und Beschaffung.
+  RELEVANT:    Beschaffungsordnung / Vergaberechtliche Vorschriften - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/interne-bereiche-der-abteilungen/finanzen/materialwirtschaft/beschaffung/beschaffungsordnung-vergaberechtliche-vorschriften.html
+               Beschaffungsordnung / Vergaberechtliche Vorschriften  Hier finden Sie einen Überblick über die internen und gesetzlichen Vorgaben zu Vergabe und Beschaffung:  Die Beschaffungsordnung wurde im Mai 2012 überarbeitet und tritt mit sofortiger Wirkung in der überarbeiteten Fassung in Kraft. Sie umfasst d
+  top-1:       Gerätefondsverfahren - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/interne-bereiche-der-abteilungen/finanzen/materialwirtschaft/geraetefondsverfahren
+  top-2:       Gerätefondsverfahren - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/interne-bereiche-der-abteilungen/finanzen/materialwirtschaft/geraetefondsverfahren.html
+  top-3:       Beschaffung - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/interne-bereiche-der-abteilungen/finanzen/materialwirtschaft/beschaffung
+====================================================================================================
+QUERY 36  (relevant doc at rank 19)
+  query:       Open-Access-Publikationsfonds
+  description: Welche Publikationsgebühren übernimmt der Open-Access-Publikationsfonds?
+  narrative:   Relevant sind Förderbedingungen und Informationen zur Bezahlung von Open-Access-Publikationsgebühren.
+  RELEVANT:    Open Access Zeitschriftenartikel - UB - Uni Kassel  |  https://www.uni-kassel.de/ub/publizieren/open-access/publikationsfonds/zeitschriftenartikel.html
+               Open Access Zeitschriftenartikel  Viele OA-Zeitschriften erheben Artikelgebühren (Article Processing Charges) für die Veröffentlichung eines Beitrags. Diese können aus dem OA-Publikationsfonds bezahlt werden, sofern die auf dieser Seite genannten Bedingungen erfüllt sind. Eine Kopie der geförderten 
+  top-1:       Open Access Publikationsfonds - UB - Uni Kassel  |  https://www.uni-kassel.de/ub/publizieren/open-access/publikationsfonds.html
+  top-2:       Open Access Publikationsfonds - UB - Uni Kassel  |  https://www.uni-kassel.de/ub/publizieren/open-access/publikationsfonds
+  top-3:       Open Access Publikationsfonds - UB - Uni Kassel  |  https://www.uni-kassel.de/ub/index.php?id=1000675
+====================================================================================================
+QUERY 37  (relevant doc at rank 2)
+  query:       Zeitschriften der Universitätsbibliothek
+  description: Wie finde und nutze ich Zeitschriften der Universitätsbibliothek?
+  narrative:   Relevant sind Informationen zu gedruckten und elektronischen Zeitschriften sowie deren Zugang.
+  RELEVANT:    Zeitschriften - UB - Uni Kassel  |  https://www.uni-kassel.de/ub/zeitschriften.html
+               Zeitschriften  Die UB/LMB Kassel bietet 2.329 laufend gehaltene Fachzeitschriften und insgesamt 153.158 Online-Zeitschriften.  Bei gedruckten Zeitschriften stehen die Hefte des laufenden Jahrgangs frei zugänglich in den Zeitschriftenauslagefächern zur Verfügung. Abgeschlossene, gebundene Zeitschrift
+  top-1:       Verlagsvereinbarungen - UB - Uni Kassel  |  https://www.uni-kassel.de/ub/publizieren/open-access/verlagsvereinbarungen.html
+  top-2:       Zeitschriften - UB - Uni Kassel  |  https://www.uni-kassel.de/ub/zeitschriften.html
+  top-3:       Gutachtertätigkeiten - FB01 - Uni Kassel  |  https://www.uni-kassel.de/fb01/institute/institut-fuer-sozialwesen/fachgebiete/erziehungswissenschaft-mit-dem-schwerpunkt-soziale-arbeit-und-bildung/fachgebiet-bis-2021/mitglieder-des-fachgebietes/prof-dr-werner-thole/gutachtertaetigkeiten.html
+====================================================================================================
+QUERY 39  (relevant doc at rank 15)
+  query:       Büromöbel wiederverwenden
+  description: Wo können gebrauchte Büromöbel der Universität weitergegeben oder gefunden werden?
+  narrative:   Relevant sind Informationen zur Möbelbörse und zur Wiederverwendung von Büromöbeln.
+  RELEVANT:    Nachhaltigkeit A-Z - UNI  |  https://www.uni-kassel.de/uni/nachhaltigkeit/nachhaltiger-betrieb-und-campus-1/nachhaltigkeit-a-z.html
+               Nachhaltigkeit A-Z  Abfall  Die Uni hat ein Motto „Kluge Köpfe Trennen!“. Mit ihrem Abfallwirtschaftskonzept leistet sie einen Beitrag zu nachhaltigem Wirtschaften und für einen schonenden Ressourcenverbrauch.  Insgesamt sind zwölf Pfandringe auf dem Campus ( vor allem am Hopla) an ausgewählten Müll
+  top-1:       Einzeltermin (Startseite) - HOCHSCHULVERWALTUNG  |  https://www.uni-kassel.de/hochschulverwaltung/aktuelles/einzeltermin-startseite/2026/06/11/default-4c7fc3395d7bf3fadbbe1af22c633b79-1-1-2-7-1-8-1.html
+  top-2:       Einzelmeldung Termine - HOCHSCHULVERWALTUNG  |  https://www.uni-kassel.de/hochschulverwaltung/aktuelles/einzelmeldung-termine/2026/06/11/default-4c7fc3395d7bf3fadbbe1af22c633b79-1-1-2-7-1-8-1.html
+  top-3:       Einzeltermin (Startseite) - HOCHSCHULVERWALTUNG  |  https://www.uni-kassel.de/hochschulverwaltung/aktuelles/einzeltermin-startseite/2026/06/23/default-4c7fc3395d7bf3fadbbe1af22c633b79-1-1-2-7-1-8-1-1.html
+====================================================================================================
+QUERY 40  (relevant doc at rank 45)
+  query:       Softwarelizenzen beschaffen
+  description: Wie werden Software- und Campuslizenzen beschafft?
+  narrative:   Relevant sind Informationen zu Lizenzvereinbarungen, Bezugsmöglichkeiten und dem WPS-System.
+  RELEVANT:    Software-/ Campuslizenzen - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/interne-bereiche-der-abteilungen/finanzen/materialwirtschaft/beschaffung/software-campuslizenzen.html
+               Software-/ Campuslizenzen  Mit bestimmten Herstellern bzw. Vertreibern von Softwareprodukten bestehen Vereinbarungen über Hochschul-Sammellizenzen (Rahmenverträge, Landeslizenzen usw.), die es den Bedarfsstellen im Bereich der Universität Kassel ermöglicht, Nutzungslizenzen und Datenträger für die b
+  top-1:       Gerätefondsverfahren - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/interne-bereiche-der-abteilungen/finanzen/materialwirtschaft/geraetefondsverfahren
+  top-2:       Gerätefondsverfahren - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/interne-bereiche-der-abteilungen/finanzen/materialwirtschaft/geraetefondsverfahren.html
+  top-3:       Beschaffung - INTERN - Uni Kassel  |  https://www.uni-kassel.de/intern/interne-bereiche-der-abteilungen/finanzen/materialwirtschaft/beschaffung
+====================================================================================================
+9 of 25 queries do not have the relevant doc at rank 1
